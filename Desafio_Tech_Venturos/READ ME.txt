@@ -1,0 +1,16 @@
+Ola, segue meu teste automatizado e report de bugs
+
+O report dos bugs encontrados estão aqui:
+https://docs.google.com/spreadsheets/d/1ElBDIbkkUe5jDaBQxKOmjiwZXdkzdbwgZLXCwnsBG4o/edit?usp=sharing
+
+***A automação se encontra na pasta DesafioTech***
+
+Utilizei nessa automação
+Robot framework + Selenium
+Versões:
+Selenium: 4.9.0
+Robot framewrok: 6.0.2
+seleniumlibrary: 6.1.0
+chromedriver: 114
+--------------------------------------------------------------------------------------------
+Desde já agradeço a oportunidade e fico no aguardo para conversarmos :]
